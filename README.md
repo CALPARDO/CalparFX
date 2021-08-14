@@ -2,7 +2,7 @@
 
 Latest Release: [v1.0](https://github.com/CALPARDO/CalparFX/releases/tag/v1.0)
 
-CalparFX is a reprogrammable guitar effects pedal based on ATmega328 microcontroller
+CalparFX is a reprogrammable guitar effects pedal based on ATmega328 microcontroller and TL072 IC
 
 
 ## [Schematics](https://github.com/CALPARDO/CalparFX/tree/main/schematics)
